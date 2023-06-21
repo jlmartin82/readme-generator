@@ -1,8 +1,8 @@
-# project
+# ReadMe Generator Project 
 
 ## Description
 
-desc
+This is project number nine.
 
 ## Table of Contents
 
@@ -15,11 +15,12 @@ desc
 
 ## Installation
 
-inst
+Installation instuctions 
 
 ## Usage
 
-usage
+This is used to generate a read me file for projects. Following the prompts
+![Demo](Node2023-06-21%20at%201.08.59%20PM.mov)
 
 ## License
 
@@ -27,11 +28,11 @@ This application is covered under the MIT license. ![License: MIT](MIT)
 
 ## Contributing
 
-guide
+No current contribution guidlines
 
 ## Tests
 
-intio
+No current testing intructions
 
 ## Questions
 
