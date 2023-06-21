@@ -15,10 +15,12 @@ Generate Readme File
 
 ## Installation
 
-Follow the promts and a complete and thourough readme file will be generated.
+Follow the prompts and a complete and thorough readme file will be generated.
+
 
 ## Usage
-![Demo](Node%20Jun%2021%2C%202023%203_05%20PM.webm)
+![Demo]()
+[Node Jun 21, 2023 3_05 PM copy.webm](https://github.com/jlmartin82/readme-generator/assets/129562637/09d6ede5-4724-4ec7-9f66-d83580136827)
 No current usage information
 
 ## License
