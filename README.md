@@ -19,9 +19,9 @@ Follow the prompts and a complete and thorough readme file will be generated.
 
 
 ## Usage
-![Demo]()
+Demo
 [Node Jun 21, 2023 3_05 PM copy.webm](https://github.com/jlmartin82/readme-generator/assets/129562637/09d6ede5-4724-4ec7-9f66-d83580136827)
-No current usage information
+
 
 ## License
 
@@ -29,7 +29,7 @@ This application is covered under the MIT license. ![License: MIT](MIT)
 
 ## Contributing
 
-No Current contributon guidlines
+No Current contribution guidlines
 
 ## Tests
 
