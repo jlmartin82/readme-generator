@@ -1,8 +1,8 @@
-# ReadMe Generator Project 
+# Readme Project 9
 
 ## Description
 
-This is project number nine.
+Generate Readme File 
 
 ## Table of Contents
 
@@ -15,12 +15,11 @@ This is project number nine.
 
 ## Installation
 
-Installation instuctions 
+Follow the promts and a complete and thourough readme file will be generated.
 
 ## Usage
-
-This is used to generate a read me file for projects. Following the prompts
-![Demo](Node2023-06-21%20at%201.08.59%20PM.mov)
+![Demo](Node%20Jun%2021%2C%202023%203_05%20PM.webm)
+No current usage information
 
 ## License
 
@@ -28,11 +27,11 @@ This application is covered under the MIT license. ![License: MIT](MIT)
 
 ## Contributing
 
-No current contribution guidlines
+No Current contributon guidlines
 
 ## Tests
 
-No current testing intructions
+No current testing instructions
 
 ## Questions
 
